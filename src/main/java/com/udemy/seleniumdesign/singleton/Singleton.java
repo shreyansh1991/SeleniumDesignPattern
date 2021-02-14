@@ -1,4 +1,8 @@
 package com.udemy.seleniumdesign.singleton;
+/*
+ * https://levelup.gitconnected.com/confused-with-java-singleton-design-pattern-have-a-look-at-this-article-4515adcab93e
+ * */
+
 public class Singleton {
 
     //private constructor
